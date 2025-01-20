@@ -1,5 +1,4 @@
 Bolaji John Onunwa
-Instagram Badge Youtube Badge LinkedIn Badge
 
 Hello World! 
 I'm Bolaji John Onunwa a Nigerian, currently I'm a Junior Software Engineer in Nigeria, passionate about solving problems with technology and creating different solutions.
